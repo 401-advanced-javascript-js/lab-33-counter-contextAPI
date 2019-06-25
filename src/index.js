@@ -3,14 +3,14 @@ import ReactDOM from 'react-dom';
 import App from './app';
 import * as serviceWorker from './serviceWorker';
 
-import CounterContext from './components/context/counter-context';
+import ContextProvider from './components/context/counter-context';
 
 class Main extends React.Component {
   render() {
     return (
-      <CounterContext>
+      <ContextProvider>
         <App />
-      </CounterContext>
+      </ContextProvider>
     );
   }
 }
