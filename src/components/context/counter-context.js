@@ -1,7 +1,5 @@
 /* eslint-disable react/prop-types */
 
-'use strict';
-
 import React from 'react';
 
 export const CounterContext = React.createContext();
