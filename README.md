@@ -1,8 +1,8 @@
 # ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 
-## Project Name
+## Counter
 
-### Author: Student/Group Name
+### Author: Jagdeep Singh
 
 ### Links and Resources
 
@@ -12,10 +12,9 @@
 
 #### Documentation
 
-- [jsdoc](http://xyz.com) (Server assignments)
 - [styleguide](http://xyz.com) (React assignments)
 
-### Modules
+<!-- ### Modules
 
 #### `modulename.js`
 
@@ -27,7 +26,7 @@ Usage Notes or examples
 
 ###### `bar(array) -> array`
 
-Usage Notes or examples
+Usage Notes or examples -->
 
 ### Setup
 
@@ -38,9 +37,7 @@ Usage Notes or examples
 #### Tests
 
 - How do you run tests? `npm test`
-- What assertions were made?
-- What assertions need to be / should be made?
 
 #### UML
 
-Link to an image of the UML for your application and response to events
+![UML](assets/uml.jpeg)
