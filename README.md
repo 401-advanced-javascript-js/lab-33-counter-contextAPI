@@ -8,7 +8,7 @@
 
 - [submission PR](https://github.com/401-advanced-javascript-js/lab-33-counter-contextAPI/pull/1)
 - [travis](https://travis-ci.com/401-advanced-javascript-js/lab-33-counter-contextAPI)
-- [front-end](http://xyz.com)
+- [front-end](https://unruffled-beaver-15183f.netlify.com/)
 
 #### Documentation
 
